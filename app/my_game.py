@@ -14,7 +14,7 @@ if __name__ == "__main__":
 
     print("-------------------")
     print("WELCOME TO MY ROCK-PAPER-SCISSORS GAME!!")
-    print(f"PLAYER: '{USER_NAME}'")
+    print(f"PLAYER: '{Alex}'")
 
     print("-------------------")
     print("PLEASE SELECT ONE OF THE FOLLOWING OPTIONS:", OPTIONS)
